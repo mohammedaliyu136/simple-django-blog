@@ -1,6 +1,6 @@
 # Simple Django Blog
 
-One Paragraph of project description goes here
+a simple blog built with django. try a [Demo](https://techb.herokuapp.com)
 
 ## Getting Started
 
