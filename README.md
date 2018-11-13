@@ -13,7 +13,7 @@
   * view post detail
   
   
- ## How to use
+ ## How to get up and running
  ```
  pip install -r requirements.txt
  ```
