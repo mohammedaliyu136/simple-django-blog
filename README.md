@@ -11,3 +11,12 @@
 ### visitors
   * view post list
   * view post detail
+  
+  
+ ## How to use
+ ```
+ pip install -r requirements.txt
+ ```
+ ```
+ python manage.py runserver
+ ```
