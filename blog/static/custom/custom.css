@@ -1,0 +1,64 @@
+.container{
+	padding: 0;
+}
+.main-content{
+	padding: 0;
+	background-color: white;
+}
+.side-bar{
+	padding: 0;
+	background-color: white;
+	border-left: 5px solid black;
+}
+.post{
+	border-bottom: 2px solid black;
+	padding: 30px;
+	margin-bottom: 40px;
+}
+.posts{
+	border-bottom: 2px solid black;
+	padding: 10px;
+	margin-bottom: 0px;
+}
+.posts>a{
+	color: black;
+}
+.posts>a:hover{
+	color: green;
+	text-decoration: none;
+}
+.cat>.head{
+	border-bottom: 1px solid black;
+	padding-top: 0;
+}
+.cat>ul{
+	list-style: none;
+	font-size: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.cat>li{
+	border-bottom: 1px solid black;
+}
+.cat{
+}
+body{
+	background-color: #f8f8f8;
+}
+.comment{
+	border-left: 5px solid black;
+	padding-left: 10px;
+	margin-bottom: 30px;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-top: -1px;
+}
+
+
